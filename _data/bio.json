@@ -1,31 +1,32 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Ethan Lewellin",
+    "label": "Data Scientist",
+    "picture": "https://github.com/ethanlewellin/Portfolio/blob/main/img/ethanlewellin.jfif",
+    "email": "ethanlewellin@gmail.com",
+    "phone": "920-988-5858",
+    "website": "https://ethanlewellin.github.io/Portfolio/",
+    "summary": "Data scientist with a background in environmental remediation and a strong foundation in applied statistics and bioinformatics. I hold a B.S. in Applied Statistics and an M.S. in Data Science from the Colorado School of Mines. I’m passionate about applying data-driven methods to problems in bioinformatics, biostatistics, and computational biology. ",
+    "location": { "address": "", "postalCode": "97703", "city": "Bend", "countryCode": "USA", "region": "Oregon" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "ethanlewellin", "url": "https://www.linkedin.com/in/ethanlewellin/" }
+      /*{ "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },*/
+      /*{ "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },*/
+      /*{ "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }*/
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Bioinformatics" },
+    { "name": "Machine Learning" },
+    { "name": "Statistical Modeling" },
+    { "name": "Data Visualization" },
+    { "name": "Genomics" },
+    { "name": "Spatial Analysis and Cartography" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Python", "R", "R-Studio", "Arcade", "SQL", "Mathematica", "C++" ]
     },
     {
       "name": "Toolsets/OS",
