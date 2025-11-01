@@ -10,9 +10,6 @@
     "location": { "address": "", "postalCode": "97703", "city": "Bend", "countryCode": "USA", "region": "Oregon" },
     "profiles": [
       { "network": "linkedin", "username": "ethanlewellin", "url": "https://www.linkedin.com/in/ethanlewellin/"}
-      /*{ "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },*/
-      /*{ "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },*/
-      /*{ "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }*/
     ]
   },
   "interests": [
