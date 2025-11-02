@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Plotly/dashboard_preview.png
+image: img/Plotly/plotly_dash_header.png
 title: "Plotly Dashboard"
 date: 2024
 published: true
