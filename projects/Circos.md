@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Circos/honey bee_genome_poster.png
+image: img/circos/honey bee_genome_poster.png
 title: "Circos Plot Workflow"
 date: 2025
 published: true
@@ -38,8 +38,8 @@ I developed a Python workflow that automates the retrieval and visualization of 
 
 ### Example Visualizations
 
-<img class="img-fluid" src="../img/Circos/coffee_genome_poster.png">
+<img class="img-fluid" src="../img/circos/coffee_genome_poster.png">
 
-<img class="img-fluid" src="../img/Circos/honey bee_genome_poster.png">
+<img class="img-fluid" src="../img/circos/honey bee_genome_poster.png">
 
 ---
