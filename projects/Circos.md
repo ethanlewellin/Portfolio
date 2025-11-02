@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/circos/honey bee_genome_poster.png
+image: img/Circos/honey bee_genome_poster.png
 title: "Circos Plot Workflow"
 date: 2025
 published: true
