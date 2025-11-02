@@ -42,7 +42,7 @@ The layout uses Dash Bootstrap Components for a clean UI, and the app launches a
 
 ---
 
-### Example Visualizations
+### Example Visualization
 
 <img class="img-fluid" src="../img/Plotly/dashboard_preview.png">
 
