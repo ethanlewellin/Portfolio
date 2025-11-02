@@ -15,15 +15,6 @@
   --tf-projects-bg-color: var(--bs-gray-100);
 }
 
-/* Project banner width */
-.project-header img {
-  max-width: 600px;
-  height: auto;
-  display: block;
-  margin: 0 auto;
-}
-
-
 /* Format social media icons */
 .tf-social {
   display: inline-block;
