@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/circos/circos-thumb.png
-title: "Automated Circos Plot Generator"
+title: "Circos Plot Workflow"
 date: 2025
 published: true
 labels:
