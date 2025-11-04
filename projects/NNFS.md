@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/NNFS/nnfs.png
 title: "Neural Networks from Scratch"
-date: 2025
+date: 2024
 published: true
 labels:
   - Python
@@ -20,4 +20,4 @@ This project reinforced my knowledge of vectorized computation, matrix algebra, 
 **Reference:**  
 Kinsley, H., & Kukiela, D. (2020). *Neural Networks from Scratch in Python*. Retrieved from [https://nnfs.io](https://nnfs.io)
 
-Source: [**ethanlewellin/NNS**](https://github.com/ethanlewellin/NNS)
+Github Repo: [**ethanlewellin/NNS**](https://github.com/ethanlewellin/NNS)
